@@ -25,6 +25,18 @@ Both scripts report the identical deterministic SHA-256 of `results/certificate_
 
 Scientific source parent **[Polybrutus D44 v0.1.0](https://github.com/Topbrutus/polybrutus-d44/tree/v0.1.0)**, frozen commit `d5831cffec4330b6593c2242051d6e920c757080`, [DOI 10.5281/zenodo.24415463](https://doi.org/10.5281/zenodo.24415463). The **complete original D44 tag and all earlier ancestors** are in `prior/d44/frozen_scientific_tag_v0.1.0.zip`, SHA-256 `e74794dbfa9c6eb4bb3307dc95d57462dc4176516260c7855f1eb31acde231ec`, 2,149,619 bytes, 28 entries and CRC PASS. The original `results/certificate_d44.json` is extracted byte-identically to `prior/d44/results/certificate_d44.json`, SHA-256 `8c833b8907689ccc4e5519bd6d3c57eadba14876336dcc8d0fe63b672555b9e9`. Both exact checkers authenticate these sources.
 
+## Official publication, DOI and structured scientific references
+
+- **Official Zenodo DOI:** [10.5281/zenodo.24416007](https://doi.org/10.5281/zenodo.24416007).
+- **Public Zenodo record:** https://zenodo.org/records/24416007 — all three file names, byte sizes and MD5 checks confirmed against original artifacts.
+- **Frozen scientific tag:** [v0.1.0](https://github.com/Topbrutus/polybrutus-d45/tree/v0.1.0), commit `c743aa3e29a16ef9868375077ef31a222fd45c46`.
+- **GitHub tag CI success:** https://github.com/Topbrutus/polybrutus-d45/actions/runs/44891650319 .
+- **Zenodo keyword gate:** exact dimension `forty-five`, ideal graph multiplicity `thirty-ninefold`, stale copied D31 keywords absent.
+- **Zenodo structured relation:** `isDerivedFrom` → original immediate parent DOI [10.5281/zenodo.24415463](https://doi.org/10.5281/zenodo.24415463).
+- **Zenodo separate bibliographic `references` field:** two verified entries, Polybrutus D44 (direct predecessor) and [Polybrutus 7D](https://doi.org/10.5281/zenodo.24407952) (historical context).
+- **Memoria checkpoint:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/checkpoints/POLYBRUTUS_D45_PUBLICATION_2026-11-21.md .
+- **Central publications index:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/projects/POLYBRUTUS_X72_PUBLICATIONS_INDEX.md .
+
 ## Scientific writing and bibliographic traceability
 
 - [Mathematical specification](SPECIFICATION_D45.md), [constructive proof](PREUVE_D45.md), [scientific provenance](PROVENANCE.md), [full parent archive](prior/d44/ARCHIVE_PROVENANCE.md).

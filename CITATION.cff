@@ -10,3 +10,5 @@ date-released: 2026-11-21
 license: MIT
 repository-code: https://github.com/Topbrutus/polybrutus-d45
 abstract: "Exact synthetic 50-point Euclidean squared-distance metric conserving 1176 predecessor pairs, affine rank 45, with independently checked ideal graph eigenspaces."
+doi: 10.5281/zenodo.24416007
+url: https://doi.org/10.5281/zenodo.24416007

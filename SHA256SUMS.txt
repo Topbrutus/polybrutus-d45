@@ -1,0 +1,5 @@
+# SHA-256 of the three public Zenodo artifacts, record 24416007
+# Source ZIP is original frozen Git tag; PDF and certificate also embedded in it
+63a3a5a372f53419b0d93ce1343704ab08ccc0598a6ecf11cd63282681905f42  POLYBRUTUS_D45_SOURCE_v0.1.0_GITHUB_TAG.zip
+e7799d3bfa4448e52583e28e69b9f3ecec03f4dec40a0974c2e15b9aca598c68  publication/POLYBRUTUS_45D_NOTE.pdf
+b37d3d92e16a4c4f3741cbcfe1889ba19d949ce860fec0210036aeaf4e4b2160  results/certificate_d45.json
